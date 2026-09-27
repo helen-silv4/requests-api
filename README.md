@@ -22,8 +22,8 @@ Trabalho 1 — Desenvolvimento de Sistemas Distribuídos.
 Pré-requisito: **Docker** com Docker Compose. Nada mais precisa estar instalado (nem Python, nem PostgreSQL).
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd API-Pedidos
+git clone https://github.com/helen-silv4/requests-api.git
+cd requests-api
 docker compose up -d --build
 ```
 
